@@ -1,0 +1,6 @@
+D:\Dot_Net_Training\C#\HandsOn_Works\positive_or_negative\bin\Debug\positive_or_negative.exe.config
+D:\Dot_Net_Training\C#\HandsOn_Works\positive_or_negative\bin\Debug\positive_or_negative.exe
+D:\Dot_Net_Training\C#\HandsOn_Works\positive_or_negative\bin\Debug\positive_or_negative.pdb
+D:\Dot_Net_Training\C#\HandsOn_Works\positive_or_negative\obj\Debug\positive_or_negative.csproj.CoreCompileInputs.cache
+D:\Dot_Net_Training\C#\HandsOn_Works\positive_or_negative\obj\Debug\positive_or_negative.exe
+D:\Dot_Net_Training\C#\HandsOn_Works\positive_or_negative\obj\Debug\positive_or_negative.pdb

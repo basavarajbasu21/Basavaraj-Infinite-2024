@@ -1,0 +1,7 @@
+D:\Dot_Net_Training\C#\HandsOn_Works\multiplication_table\bin\Debug\multiplication_table.exe.config
+D:\Dot_Net_Training\C#\HandsOn_Works\multiplication_table\bin\Debug\multiplication_table.exe
+D:\Dot_Net_Training\C#\HandsOn_Works\multiplication_table\bin\Debug\multiplication_table.pdb
+D:\Dot_Net_Training\C#\HandsOn_Works\multiplication_table\obj\Debug\multiplication_table.csproj.AssemblyReference.cache
+D:\Dot_Net_Training\C#\HandsOn_Works\multiplication_table\obj\Debug\multiplication_table.csproj.CoreCompileInputs.cache
+D:\Dot_Net_Training\C#\HandsOn_Works\multiplication_table\obj\Debug\multiplication_table.exe
+D:\Dot_Net_Training\C#\HandsOn_Works\multiplication_table\obj\Debug\multiplication_table.pdb
