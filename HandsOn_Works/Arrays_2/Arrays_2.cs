@@ -24,7 +24,20 @@ namespace Arrays_2
             Console.WriteLine("Average value of Array elements : " + (total / 10));
             Console.WriteLine("Minimum marks : " + arr.Min());
             Console.WriteLine("Maximum marks : " + arr.Max());
-            Console.WriteLine("Display marks in ascending order : ");
+            Console.WriteLine("______________________________________");
+            Console.WriteLine("Array in ascending order");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i] + ",");
+
+            }
+            // Display marks in Descending order
+            Console.WriteLine("");
+            Console.WriteLine("Array in Descending order");
+            for (int i = arr.Length - 1; i >= 0; i--)
+            {
+                Console.Write(arr[i] + ",");
+            }
             Console.ReadLine();
         }
     }
