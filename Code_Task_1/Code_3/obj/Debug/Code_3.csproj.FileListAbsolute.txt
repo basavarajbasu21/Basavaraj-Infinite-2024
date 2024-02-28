@@ -1,0 +1,6 @@
+D:\Dot_Net_Training\C#\Code_Task_1\Code_3\bin\Debug\Code_3.exe.config
+D:\Dot_Net_Training\C#\Code_Task_1\Code_3\bin\Debug\Code_3.exe
+D:\Dot_Net_Training\C#\Code_Task_1\Code_3\bin\Debug\Code_3.pdb
+D:\Dot_Net_Training\C#\Code_Task_1\Code_3\obj\Debug\Code_3.csproj.CoreCompileInputs.cache
+D:\Dot_Net_Training\C#\Code_Task_1\Code_3\obj\Debug\Code_3.exe
+D:\Dot_Net_Training\C#\Code_Task_1\Code_3\obj\Debug\Code_3.pdb
