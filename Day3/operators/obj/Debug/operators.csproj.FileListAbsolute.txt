@@ -1,2 +1,0 @@
-D:\Dot_Net_Training\C#\Day3\operators\obj\Debug\operators.csproj.AssemblyReference.cache
-D:\Dot_Net_Training\C#\Day3\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache

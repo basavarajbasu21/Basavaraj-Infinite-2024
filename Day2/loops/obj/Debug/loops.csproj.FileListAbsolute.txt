@@ -1,7 +1,0 @@
-D:\Dot_Net_Training\C#\Day2\loops\bin\Debug\loops.exe.config
-D:\Dot_Net_Training\C#\Day2\loops\bin\Debug\loops.exe
-D:\Dot_Net_Training\C#\Day2\loops\bin\Debug\loops.pdb
-D:\Dot_Net_Training\C#\Day2\loops\obj\Debug\loops.csproj.AssemblyReference.cache
-D:\Dot_Net_Training\C#\Day2\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
-D:\Dot_Net_Training\C#\Day2\loops\obj\Debug\loops.exe
-D:\Dot_Net_Training\C#\Day2\loops\obj\Debug\loops.pdb

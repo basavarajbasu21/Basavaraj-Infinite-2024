@@ -1,7 +1,0 @@
-D:\Dot_Net_Training\C#\HandsOn_Works\Sum _of_Two_num_5\bin\Debug\Sum _of_Two_num_5.exe.config
-D:\Dot_Net_Training\C#\HandsOn_Works\Sum _of_Two_num_5\bin\Debug\Sum _of_Two_num_5.exe
-D:\Dot_Net_Training\C#\HandsOn_Works\Sum _of_Two_num_5\bin\Debug\Sum _of_Two_num_5.pdb
-D:\Dot_Net_Training\C#\HandsOn_Works\Sum _of_Two_num_5\obj\Debug\Sum _of_Two_num_5.csproj.AssemblyReference.cache
-D:\Dot_Net_Training\C#\HandsOn_Works\Sum _of_Two_num_5\obj\Debug\Sum _of_Two_num_5.csproj.CoreCompileInputs.cache
-D:\Dot_Net_Training\C#\HandsOn_Works\Sum _of_Two_num_5\obj\Debug\Sum _of_Two_num_5.exe
-D:\Dot_Net_Training\C#\HandsOn_Works\Sum _of_Two_num_5\obj\Debug\Sum _of_Two_num_5.pdb

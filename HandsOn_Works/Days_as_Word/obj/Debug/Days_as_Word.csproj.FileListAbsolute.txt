@@ -1,7 +1,0 @@
-D:\Dot_Net_Training\C#\HandsOn_Works\Days_as_Word\bin\Debug\Days_as_Word.exe.config
-D:\Dot_Net_Training\C#\HandsOn_Works\Days_as_Word\bin\Debug\Days_as_Word.exe
-D:\Dot_Net_Training\C#\HandsOn_Works\Days_as_Word\bin\Debug\Days_as_Word.pdb
-D:\Dot_Net_Training\C#\HandsOn_Works\Days_as_Word\obj\Debug\Days_as_Word.csproj.AssemblyReference.cache
-D:\Dot_Net_Training\C#\HandsOn_Works\Days_as_Word\obj\Debug\Days_as_Word.csproj.CoreCompileInputs.cache
-D:\Dot_Net_Training\C#\HandsOn_Works\Days_as_Word\obj\Debug\Days_as_Word.exe
-D:\Dot_Net_Training\C#\HandsOn_Works\Days_as_Word\obj\Debug\Days_as_Word.pdb

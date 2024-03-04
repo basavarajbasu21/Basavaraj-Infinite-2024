@@ -1,7 +1,0 @@
-D:\Dot_Net_Training\C#\HandsOn_Works\Operator_Calculator\bin\Debug\Operator_Calculator.exe.config
-D:\Dot_Net_Training\C#\HandsOn_Works\Operator_Calculator\bin\Debug\Operator_Calculator.exe
-D:\Dot_Net_Training\C#\HandsOn_Works\Operator_Calculator\bin\Debug\Operator_Calculator.pdb
-D:\Dot_Net_Training\C#\HandsOn_Works\Operator_Calculator\obj\Debug\Operator_Calculator.csproj.CoreCompileInputs.cache
-D:\Dot_Net_Training\C#\HandsOn_Works\Operator_Calculator\obj\Debug\Operator_Calculator.exe
-D:\Dot_Net_Training\C#\HandsOn_Works\Operator_Calculator\obj\Debug\Operator_Calculator.pdb
-D:\Dot_Net_Training\C#\HandsOn_Works\Operator_Calculator\obj\Debug\Operator_Calculator.csproj.AssemblyReference.cache

@@ -1,7 +1,0 @@
-D:\Dot_Net_Training\C#\Day3\Day3\bin\Debug\Day3.exe.config
-D:\Dot_Net_Training\C#\Day3\Day3\bin\Debug\Day3.exe
-D:\Dot_Net_Training\C#\Day3\Day3\bin\Debug\Day3.pdb
-D:\Dot_Net_Training\C#\Day3\Day3\obj\Debug\Day3.csproj.AssemblyReference.cache
-D:\Dot_Net_Training\C#\Day3\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
-D:\Dot_Net_Training\C#\Day3\Day3\obj\Debug\Day3.exe
-D:\Dot_Net_Training\C#\Day3\Day3\obj\Debug\Day3.pdb
