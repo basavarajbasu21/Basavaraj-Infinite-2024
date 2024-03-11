@@ -1,0 +1,10 @@
+D:\Concession\TestDLL\bin\Debug\TestDLL.exe.config
+D:\Concession\TestDLL\bin\Debug\TestDLL.exe
+D:\Concession\TestDLL\bin\Debug\TestDLL.pdb
+D:\Concession\TestDLL\bin\Debug\Concession.dll
+D:\Concession\TestDLL\bin\Debug\Concession.pdb
+D:\Concession\TestDLL\obj\Debug\TestDLL.csproj.AssemblyReference.cache
+D:\Concession\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+D:\Concession\TestDLL\obj\Debug\TestDLL.csproj.CopyComplete
+D:\Concession\TestDLL\obj\Debug\TestDLL.exe
+D:\Concession\TestDLL\obj\Debug\TestDLL.pdb
