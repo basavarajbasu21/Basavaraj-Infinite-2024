@@ -1,0 +1,7 @@
+D:\Dot_Net_Training\C#\Assignments\C#\Assignment_5\Assignment_5\bin\Debug\Assignment_5.exe.config
+D:\Dot_Net_Training\C#\Assignments\C#\Assignment_5\Assignment_5\bin\Debug\Assignment_5.exe
+D:\Dot_Net_Training\C#\Assignments\C#\Assignment_5\Assignment_5\bin\Debug\Assignment_5.pdb
+D:\Dot_Net_Training\C#\Assignments\C#\Assignment_5\Assignment_5\obj\Debug\Book_Details.csproj.AssemblyReference.cache
+D:\Dot_Net_Training\C#\Assignments\C#\Assignment_5\Assignment_5\obj\Debug\Book_Details.csproj.CoreCompileInputs.cache
+D:\Dot_Net_Training\C#\Assignments\C#\Assignment_5\Assignment_5\obj\Debug\Assignment_5.exe
+D:\Dot_Net_Training\C#\Assignments\C#\Assignment_5\Assignment_5\obj\Debug\Assignment_5.pdb
