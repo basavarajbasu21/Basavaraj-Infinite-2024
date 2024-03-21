@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite_Training\\Assignments\\C#\\Assignment_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3671FF-5F74-41E6-ACC6-237433345CD4}|assign3_1\\assign3_1.csproj|d:\\infinite_training\\assignments\\c#\\assignment_4\\assign3_1\\assign3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3671FF-5F74-41E6-ACC6-237433345CD4}|assign3_1\\assign3_1.csproj|solutionrelative:assign3_1\\assign3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assign3_1.cs",
+              "DocumentMoniker": "D:\\Infinite_Training\\Assignments\\C#\\Assignment_4\\assign3_1\\assign3_1.cs",
+              "RelativeDocumentMoniker": "assign3_1\\assign3_1.cs",
+              "ToolTip": "D:\\Infinite_Training\\Assignments\\C#\\Assignment_4\\assign3_1\\assign3_1.cs",
+              "RelativeToolTip": "assign3_1\\assign3_1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:50:01.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
