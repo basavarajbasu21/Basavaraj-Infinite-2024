@@ -11,7 +11,7 @@ class Program
             Console.WriteLine("Enter employee name:");
             string empName = Console.ReadLine();
 
-            Console.WriteLine("Enter employee salary:");
+            Console.WriteLine("Enter employee salary >= 25000:");
             int empSalary = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Enter employee type (P/C):");
