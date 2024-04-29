@@ -1,0 +1,24 @@
+﻿@model CodeFirstApproach.Models.Movie
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Movie Name</th>
+            <th>Date of Release</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.Moviename</td>
+                <td>@movie.DateofRelease.ToShortDateString()</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = movie.Mid }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = movie.Mid }, new { onclick = "return confirm('Are you sure you want to delete this movie?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
