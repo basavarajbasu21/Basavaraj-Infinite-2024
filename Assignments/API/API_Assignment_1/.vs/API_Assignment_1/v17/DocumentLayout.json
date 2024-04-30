@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BC551-B25D-40D9-938C-CB82E7A69FA3}|API_Assignment_1\\API_Assignment_1.csproj|d:\\infinite_training\\assignments\\api\\api_assignment_1\\api_assignment_1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BC551-B25D-40D9-938C-CB82E7A69FA3}|API_Assignment_1\\API_Assignment_1.csproj|solutionrelative:api_assignment_1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BC551-B25D-40D9-938C-CB82E7A69FA3}|API_Assignment_1\\API_Assignment_1.csproj|d:\\infinite_training\\assignments\\api\\api_assignment_1\\api_assignment_1\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BC551-B25D-40D9-938C-CB82E7A69FA3}|API_Assignment_1\\API_Assignment_1.csproj|solutionrelative:api_assignment_1\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BC551-B25D-40D9-938C-CB82E7A69FA3}|API_Assignment_1\\API_Assignment_1.csproj|d:\\infinite_training\\assignments\\api\\api_assignment_1\\api_assignment_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12BC551-B25D-40D9-938C-CB82E7A69FA3}|API_Assignment_1\\API_Assignment_1.csproj|solutionrelative:api_assignment_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BC551-B25D-40D9-938C-CB82E7A69FA3}|API_Assignment_1\\API_Assignment_1.csproj|d:\\infinite_training\\assignments\\api\\api_assignment_1\\api_assignment_1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BC551-B25D-40D9-938C-CB82E7A69FA3}|API_Assignment_1\\API_Assignment_1.csproj|solutionrelative:api_assignment_1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\API_Assignment_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "API_Assignment_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\API_Assignment_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "API_Assignment_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T11:37:27.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\API_Assignment_1\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "API_Assignment_1\\Controllers\\DemoController.cs",
+              "ToolTip": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\API_Assignment_1\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "API_Assignment_1\\Controllers\\DemoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:36:37.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\API_Assignment_1\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "API_Assignment_1\\Models\\Country.cs",
+              "ToolTip": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\API_Assignment_1\\Models\\Country.cs",
+              "RelativeToolTip": "API_Assignment_1\\Models\\Country.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:35:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\API_Assignment_1\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "API_Assignment_1\\Controllers\\CountryController.cs",
+              "ToolTip": "D:\\Infinite_Training\\Assignments\\API\\API_Assignment_1\\API_Assignment_1\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "API_Assignment_1\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:22:20.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

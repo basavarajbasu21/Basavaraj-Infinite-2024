@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebFormVali.aspx.cs" Inherits="Assignment_ASP_1.WebFormVali" %>
 
 <!DOCTYPE html>
 
+=======
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebFormVali.aspx.cs" Inherits="Assignment_ASP_1.WebFormVali" %>
+
+<!DOCTYPE html>
+
+>>>>>>> 83109c39747d55bd89b86b0e0b98dc18c66fed71
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <title>VALIADTION</title>
@@ -144,4 +151,8 @@ input[type="submit"]:hover {
             }
         }
 </script>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 83109c39747d55bd89b86b0e0b98dc18c66fed71

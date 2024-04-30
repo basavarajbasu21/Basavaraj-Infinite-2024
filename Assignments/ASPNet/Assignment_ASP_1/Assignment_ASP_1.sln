@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {4ECB499C-DD37-49B9-AADE-02584FBAE5D8}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_ASP_1", "Assignment_ASP_1\Assignment_ASP_1.csproj", "{04D66E74-32D0-416D-8129-EAE990F2A75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D66E74-32D0-416D-8129-EAE990F2A75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D66E74-32D0-416D-8129-EAE990F2A75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D66E74-32D0-416D-8129-EAE990F2A75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D66E74-32D0-416D-8129-EAE990F2A75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ECB499C-DD37-49B9-AADE-02584FBAE5D8}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 83109c39747d55bd89b86b0e0b98dc18c66fed71

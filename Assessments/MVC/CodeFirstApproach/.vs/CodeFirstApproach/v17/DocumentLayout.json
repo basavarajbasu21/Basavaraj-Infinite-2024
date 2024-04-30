@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\",
+  "WorkspaceRootPath": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|d:\\infinite_training\\assessments\\mvc\\codefirstapproach\\codefirstapproach\\views\\movies\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\models\\moviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|d:\\training\\infinite_training\\assessments\\mvc\\codefirstapproach\\codefirstapproach\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\views\\movies\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9145E2D3-6E67-4A7B-8EF0-D005D71594CD}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Delete.cshtml",
               "RelativeDocumentMoniker": "CodeFirstApproach\\Views\\Movies\\Delete.cshtml",
-              "ToolTip": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Delete.cshtml",
               "RelativeToolTip": "CodeFirstApproach\\Views\\Movies\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -55,37 +55,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Display.cshtml",
-              "DocumentMoniker": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Display.cshtml",
+              "DocumentMoniker": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Display.cshtml",
               "RelativeDocumentMoniker": "CodeFirstApproach\\Views\\Movies\\Display.cshtml",
-              "ToolTip": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Display.cshtml",
+              "ToolTip": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Display.cshtml",
               "RelativeToolTip": "CodeFirstApproach\\Views\\Movies\\Display.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T05:58:50.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T05:58:50.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Create.cshtml",
+              "DocumentMoniker": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Create.cshtml",
               "RelativeDocumentMoniker": "CodeFirstApproach\\Views\\Movies\\Create.cshtml",
-              "ToolTip": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Create.cshtml",
               "RelativeToolTip": "CodeFirstApproach\\Views\\Movies\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T05:57:39.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T05:57:39.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MoviesController.cs",
-              "DocumentMoniker": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\MoviesController.cs",
+              "DocumentMoniker": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "CodeFirstApproach\\Controllers\\MoviesController.cs",
-              "ToolTip": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "CodeFirstApproach\\Controllers\\MoviesController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA1wBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,23 +91,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MoviesContext.cs",
-              "DocumentMoniker": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Models\\MoviesContext.cs",
+              "DocumentMoniker": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Models\\MoviesContext.cs",
               "RelativeDocumentMoniker": "CodeFirstApproach\\Models\\MoviesContext.cs",
-              "ToolTip": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Models\\MoviesContext.cs",
+              "ToolTip": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Models\\MoviesContext.cs",
               "RelativeToolTip": "CodeFirstApproach\\Models\\MoviesContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T05:44:22.619Z"
+              "WhenOpened": "2024-04-29T05:44:22.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Movies.cs",
-              "DocumentMoniker": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Models\\Movies.cs",
+              "DocumentMoniker": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Models\\Movies.cs",
               "RelativeDocumentMoniker": "CodeFirstApproach\\Models\\Movies.cs",
-              "ToolTip": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Models\\Movies.cs",
+              "ToolTip": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Models\\Movies.cs",
               "RelativeToolTip": "CodeFirstApproach\\Models\\Movies.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,9 +118,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CodeFirstApproach\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Training\\Infinite_Training\\Assessments\\MVC\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CodeFirstApproach\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

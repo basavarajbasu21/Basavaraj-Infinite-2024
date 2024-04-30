@@ -4,6 +4,7 @@ D:\Dot_Net_Training\C#\Assignments\C#\Assignment_4\assign3_2\bin\Debug\assign3_2
 D:\Dot_Net_Training\C#\Assignments\C#\Assignment_4\assign3_2\obj\Debug\assign3_2.csproj.CoreCompileInputs.cache
 D:\Dot_Net_Training\C#\Assignments\C#\Assignment_4\assign3_2\obj\Debug\assign3_2.exe
 D:\Dot_Net_Training\C#\Assignments\C#\Assignment_4\assign3_2\obj\Debug\assign3_2.pdb
+<<<<<<< HEAD
 D:\Infinite_Training\Assignments\C#\Assignment_4\assign3_2\bin\Debug\assign3_2.exe.config
 D:\Infinite_Training\Assignments\C#\Assignment_4\assign3_2\bin\Debug\assign3_2.exe
 D:\Infinite_Training\Assignments\C#\Assignment_4\assign3_2\bin\Debug\assign3_2.pdb
@@ -11,3 +12,5 @@ D:\Infinite_Training\Assignments\C#\Assignment_4\assign3_2\obj\Debug\assign3_2.c
 D:\Infinite_Training\Assignments\C#\Assignment_4\assign3_2\obj\Debug\assign3_2.csproj.CoreCompileInputs.cache
 D:\Infinite_Training\Assignments\C#\Assignment_4\assign3_2\obj\Debug\assign3_2.exe
 D:\Infinite_Training\Assignments\C#\Assignment_4\assign3_2\obj\Debug\assign3_2.pdb
+=======
+>>>>>>> 83109c39747d55bd89b86b0e0b98dc18c66fed71
